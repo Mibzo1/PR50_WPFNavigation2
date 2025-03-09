@@ -1,54 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\",
+  "WorkspaceRootPath": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\views\\personlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\views\\personlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\views\\addpersonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\views\\addpersonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\addpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\addpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\addpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\views\\personlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\views\\personlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\persistence\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\views\\addpersonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\views\\addpersonview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\persistence\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\persistence\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\git \u00F8velser\\dmu-2024-2025-exercise-materials\\pr50_wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|c:\\users\\asse_\\desktop\\skole projekter\\pr50_wpfnavigation2\\wpfnavigation02\\wpfnavigation02\\wpfnavigation02\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB057804-A0C6-4D6C-842E-98F6CA5E5665}|WPFNavigation02\\WPFNavigation02.csproj|solutionrelative:wpfnavigation02\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +74,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "WPFNavigation02\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\PersonService.cs",
+              "RelativeToolTip": "WPFNavigation02\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:22:50.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFNavigation02\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\App.xaml.cs",
+              "RelativeToolTip": "WPFNavigation02\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:21:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PersonListView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\PersonListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\PersonListView.xaml.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Views\\PersonListView.xaml.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\PersonListView.xaml.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\PersonListView.xaml.cs",
               "RelativeToolTip": "WPFNavigation02\\Views\\PersonListView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AddPersonView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\AddPersonView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\AddPersonView.xaml.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Views\\AddPersonView.xaml.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\AddPersonView.xaml.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Views\\AddPersonView.xaml.cs",
               "RelativeToolTip": "WPFNavigation02\\Views\\AddPersonView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PersonViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\ViewModels\\PersonViewModel.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonViewModel.cs",
               "RelativeToolTip": "WPFNavigation02\\ViewModels\\PersonViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,26 +139,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PersonListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
               "RelativeToolTip": "WPFNavigation02\\ViewModels\\PersonListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBcAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:27:02.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "WPFNavigation02\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:27:02.339Z",
               "EditorCaption": ""
@@ -133,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\BaseViewModel.cs",
               "RelativeToolTip": "WPFNavigation02\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,24 +178,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AddPersonViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
               "RelativeToolTip": "WPFNavigation02\\ViewModels\\AddPersonViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBgAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:27:01.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "NavigationStore.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Stores\\NavigationStore.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Stores\\NavigationStore.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Stores\\NavigationStore.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Stores\\NavigationStore.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Stores\\NavigationStore.cs",
               "RelativeToolTip": "WPFNavigation02\\Stores\\NavigationStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "NavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Services\\NavigationService.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Services\\NavigationService.cs",
               "RelativeToolTip": "WPFNavigation02\\Services\\NavigationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PersonRepo.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Persistence\\PersonRepo.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Persistence\\PersonRepo.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Persistence\\PersonRepo.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Persistence\\PersonRepo.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Persistence\\PersonRepo.cs",
               "RelativeToolTip": "WPFNavigation02\\Persistence\\PersonRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,29 +230,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Models\\Person.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Models\\Person.cs",
               "RelativeToolTip": "WPFNavigation02\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:26:55.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T18:26:55.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "NavigateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Commands\\NavigateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Commands\\NavigateCommand.cs",
               "RelativeDocumentMoniker": "WPFNavigation02\\Commands\\NavigateCommand.cs",
-              "ToolTip": "C:\\Users\\asse_\\Desktop\\Git \u00F8velser\\dmu-2024-2025-exercise-materials\\Pr50_WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Commands\\NavigateCommand.cs",
+              "ToolTip": "C:\\Users\\asse_\\Desktop\\Skole projekter\\PR50_WPFNavigation2\\WPFNavigation02\\WPFNavigation02\\WPFNavigation02\\Commands\\NavigateCommand.cs",
               "RelativeToolTip": "WPFNavigation02\\Commands\\NavigateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:26:54.729Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

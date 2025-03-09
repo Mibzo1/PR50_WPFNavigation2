@@ -12,13 +12,15 @@ using WPFNavigation02.Commands;
 namespace WPFNavigation02.ViewModels
 {
     public class PersonListViewModel : BaseViewModel
-    {       
+    {
+        private readonly PersonService personService;
         public ObservableCollection<PersonViewModel> PersonsVM { get; set; }
 
         public ICommand NavigateAddPersonViewCommand { get; set; }
 
-        public PersonListViewModel(NavigationStore navigationStore)
+        public PersonListViewModel(NavigationStore navigationStore, PersonService personService)
         {
+            this.personService = personService;
             NavigateAddPersonViewCommand = new NavigateCommand(new NavigationService(navigationStore, () => new AddPersonViewModel(navigationStore)));
         }
     }
