@@ -15,11 +15,14 @@ namespace WPFNavigation02.ViewModels
     {       
         public ObservableCollection<PersonViewModel> PersonsVM { get; set; }
 
+        private readonly PersonService personService;
+
         public ICommand NavigateAddPersonViewCommand { get; set; }
 
-        public PersonListViewModel(NavigationStore navigationStore)
+        public PersonListViewModel(NavigationStore navigationStore, PersonService personService)
         {
             NavigateAddPersonViewCommand = new NavigateCommand(new NavigationService(navigationStore, () => new AddPersonViewModel(navigationStore)));
+            this.personService = personService;
         }
     }
 }

@@ -3,6 +3,8 @@ using System.Data;
 using System.Windows;
 using WPFNavigation02.Stores;
 using WPFNavigation02.ViewModels;
+using WPFNavigation02.Persistence;
+using WPFNavigation02.Services;
 
 namespace WPFNavigation02
 {
@@ -11,15 +13,17 @@ namespace WPFNavigation02
     /// </summary>
     public partial class App : Application
     {
+        
         protected override void OnStartup(StartupEventArgs e)
         {
+            PersonRepo personRepo = new PersonRepo();
+            PersonService personService = new PersonService(personRepo);
             NavigationStore navigationStore = new NavigationStore();
-
-            navigationStore.CurrentViewModel = new PersonListViewModel(navigationStore);
-
+            navigationStore.CurrentViewModel = new PersonListViewModel(navigationStore, personService);
+          
             MainWindow = new MainWindow()
             {
-                DataContext = new MainViewModel(navigationStore)
+                DataContext = new MainViewModel(navigationStore, personService)
             };
             MainWindow.Show();
 
