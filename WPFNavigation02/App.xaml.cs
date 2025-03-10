@@ -22,7 +22,7 @@ namespace WPFNavigation02
 
             MainWindow = new MainWindow()
             {
-                DataContext = new MainViewModel(navigationStore)
+                DataContext = new MainViewModel(navigationStore, personService)
             };
             MainWindow.Show();
 

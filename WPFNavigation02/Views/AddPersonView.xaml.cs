@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFNavigation02.ViewModels;
 
 namespace WPFNavigation02.Views
 {
@@ -20,9 +21,11 @@ namespace WPFNavigation02.Views
     /// </summary>
     public partial class AddPersonView : UserControl
     {
+        AddPersonViewModel addPersonViewModel;
         public AddPersonView()
         {
             InitializeComponent();
+            DataContext = addPersonViewModel;
         }
     }
 }
