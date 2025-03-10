@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using WPFNavigation02.Persistence;
 using WPFNavigation02.Models;
 using System.Collections.ObjectModel;
+using System.Windows;
 
 namespace WPFNavigation02.Services
 {
@@ -32,17 +33,17 @@ namespace WPFNavigation02.Services
 
                 if (string.IsNullOrWhiteSpace(person.FirstName))
                 {
-                    throw new ArgumentException();
+                    MessageBox.Show("First and lastname must be alphabetical characters and not empty.");
                 }
 
                 if (string.IsNullOrWhiteSpace(person.LastName))
                 {
-                    throw new ArgumentException();
+                    MessageBox.Show("First and lastname must be alphabetical characters and not empty.");
                 }
 
                 if (person.Age < 0)
                 {
-                    throw new Exception();
+                    MessageBox.Show("Age must be greater than zero and numerical characters.");
                 }   
             }
             finally
