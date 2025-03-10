@@ -25,7 +25,7 @@ namespace WPFNavigation02.Persistence
 
         public List<Person> GetAll()
         {
-            return persons;
+            return persons; 
         }
 
         public void Add(Person person)
