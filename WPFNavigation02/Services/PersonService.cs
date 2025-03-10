@@ -28,14 +28,14 @@ namespace WPFNavigation02.Services
                 {
                     throw new Exception("State name");
                 }
-                if (person.Age > 0)
+                if (person.Age < 0)
                 {
                     throw new Exception("Not born yet?");
                 }
             }
             finally
             {
-                personRepo.Add(person);
+                persons.Add(person);
             }
         }
 
