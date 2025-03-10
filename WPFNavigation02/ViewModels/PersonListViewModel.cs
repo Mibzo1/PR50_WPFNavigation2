@@ -21,7 +21,7 @@ namespace WPFNavigation02.ViewModels
 
         public PersonListViewModel(NavigationStore navigationStore, PersonService personService)
         {
-            NavigateAddPersonViewCommand = new NavigateCommand(new NavigationService(navigationStore, () => new AddPersonViewModel(navigationStore)));
+            NavigateAddPersonViewCommand = new NavigateCommand(new NavigationService(navigationStore, () => new AddPersonViewModel(navigationStore, personService)));
             this.personService = personService;
         }
     }
